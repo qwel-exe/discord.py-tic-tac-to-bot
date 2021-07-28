@@ -145,4 +145,4 @@ async def place_error(ctx, error):
 
 
 
-client.run("ODU5NjkyMjgwMjMwOTY5MzY0.YNwY0w.KLNjasVi7hXpbMtKUGM_lmUfwCQ")
+client.run("")
